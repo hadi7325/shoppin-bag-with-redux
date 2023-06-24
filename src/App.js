@@ -1,4 +1,4 @@
-import {BrowserRouter,Routes,Route} from "react-router-dom"
+import {BrowserRouter,Routes,Route,HashRouter} from "react-router-dom"
 import Cart from "./components/Cart";
 import Products from "./components/Products";
 
