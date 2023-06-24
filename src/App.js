@@ -5,12 +5,12 @@ import Products from "./components/Products";
 function App() {
   return (
     <div className="App">
-     <BrowserRouter>
+     <HashRouter>
        <Routes>
         <Route path="/" element={<Products/>}/>
         <Route path="/cart" element={<Cart/>} />
        </Routes>
-     </BrowserRouter>
+     </HashRouter>
     </div>
 
   );
