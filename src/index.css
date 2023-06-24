@@ -156,7 +156,7 @@ nav a {
     text-align: center;
   }
   .products .product-item img{
-    width: 70%;
+    width: 100%;
   }
   .card-icon {
     position: fixed;
@@ -181,7 +181,7 @@ nav a {
 
   }
   .cart .cart-item img{
-    width: 70%;
+    width: 100%;
   }
   .total{
     margin-top: 40px;
