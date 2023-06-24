@@ -21,7 +21,7 @@ function Cart() {
             return (
 
               <div className='cart-item' key={item.id}>
-                <img src={item.image} alt="" />
+                <img src={process.env.PUBLIC_URL  + item.image} alt="" />
                 <div className='cart-item-text'>
                   <div className='cart-item-info'>
                     <h4>{item.title}</h4>
