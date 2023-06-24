@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/shoppin-bag-with-redux/static/css/main.b23c7749.css",
-    "main.js": "/shoppin-bag-with-redux/static/js/main.f661f7b2.js",
+    "main.js": "/shoppin-bag-with-redux/static/js/main.59df6d74.js",
     "index.html": "/shoppin-bag-with-redux/index.html",
     "main.b23c7749.css.map": "/shoppin-bag-with-redux/static/css/main.b23c7749.css.map",
-    "main.f661f7b2.js.map": "/shoppin-bag-with-redux/static/js/main.f661f7b2.js.map"
+    "main.59df6d74.js.map": "/shoppin-bag-with-redux/static/js/main.59df6d74.js.map"
   },
   "entrypoints": [
     "static/css/main.b23c7749.css",
-    "static/js/main.f661f7b2.js"
+    "static/js/main.59df6d74.js"
   ]
 }
