@@ -20,7 +20,7 @@ function Products() {
                     <img src={item.image} alt=""/>
                     <div className='product-item-text'>
                         <div className='product-item-info'>
-                            <h4>{item.title}</h4>
+                            <h4>{process.env.PUBLIC_URL + item.title}</h4>
                             <h5>{formatCurrency(item.price)}</h5>
                         </div>
                         <div className='add-to-cart'>
